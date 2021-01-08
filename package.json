@@ -7,7 +7,7 @@
     "start": "node index.js",
     "devStart": "nodemon index.js"
   },
-  "author": "",
+  "author": "Ciantera Rose",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
@@ -18,3 +18,5 @@
     "save-dev": "0.0.1-security"
   }
 }
+
+
